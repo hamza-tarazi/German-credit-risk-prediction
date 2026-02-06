@@ -1,6 +1,5 @@
 # German-credit-risk-prediction
 Credit risk classification using the German Credit dataset, featuring EDA, feature-target analysis, preprocessing, and supervised machine learning models.
-# German Credit Risk Prediction
 
 ## Overview
 This project focuses on predicting **credit risk** using machine learning. The goal is to classify whether a credit applicant is a **good** or **bad** credit risk based on financial, personal, and employment-related information.
